@@ -20,7 +20,7 @@ html, body, #map_canvas {
 .header h1 {
   color: #fff;
   font-size: 16px;
-  letter-spacing: 1.2px;    
+  letter-spacing: 1.2px;
   margin: 0;
   padding: 10px 0 10px 55px;
   text-transform: uppercase;
@@ -46,4 +46,21 @@ html, body, #map_canvas {
   bottom: 0;
   right: 0;
   left: 0;
+}
+
+.about {
+  text-align: center;
+  position: relative;
+  top: 100px;
+}
+
+.about h1 {
+  font-size: 48px;
+  font-weight: 300;
+  margin: 42px 0;
+}
+
+.about h2 {
+  font-size: 26px;
+  margin: 42px 0;
 }
